@@ -32,3 +32,4 @@
 | ![](https://avatars.steamstatic.com/87a87c6df5acd39ef519088a659ed80107e73817.jpg) | 滑稽_三国      | [76561199028638512](https://steamcommunity.com/profiles/76561199028638512/) | ✅           | 2022-10-01 14:45:22 |                |          |
 | ![](https://avatars.steamstatic.com/8d5aecf456aa5cefd6afd58d42985e64363ca954.jpg) | liiyasvie1 | [76561199037286275](https://steamcommunity.com/profiles/76561199037286275/) | ✅           | 2022-10-23 08:41:01 |                |          |
 | ![](https://avatars.steamstatic.com/bbc6eb26588dbfec2973c45361c3f080da5ad2bf.jpg) | 思念藏花海      | [76561199701911383](https://steamcommunity.com/profiles/76561199701911383/) | ✅           | 2024-11-03 12:09:14 |                |          |
+| ![](https://avatars.steamstatic.com/0a4b8f8bbae33b4d651f767eba1748dca74459db.jpg) | HarryZhang | [76561198129386792](https://steamcommunity.com/profiles/76561198129386792/) | ✅           | 2025-04-10 17:15:24 |                |          |
